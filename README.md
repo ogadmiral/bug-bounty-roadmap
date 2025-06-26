@@ -171,3 +171,5 @@ A Bug Bounty Learning Path in Arabic
 **اليوم السادس :  CORS VULN ** [**الفيديو 1**](<https://tinyurl.com/yv854sru>) + [**الفيديو 2**](<https://tinyurl.com/ynzx2s7b>)
 
 **اليــوم السابع : مراجعة واستدراك**
+
+Credit: 0xjsm1th (discord)
